@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.leading-11 {
+    line-height: 68px!important;
+}
